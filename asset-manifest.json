@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/baben/static/css/main.bb358e74.chunk.css",
-    "main.js": "/baben/static/js/main.7a76b548.chunk.js",
-    "main.js.map": "/baben/static/js/main.7a76b548.chunk.js.map",
+    "main.js": "/baben/static/js/main.f883fb33.chunk.js",
+    "main.js.map": "/baben/static/js/main.f883fb33.chunk.js.map",
     "runtime-main.js": "/baben/static/js/runtime-main.72c69f5e.js",
     "runtime-main.js.map": "/baben/static/js/runtime-main.72c69f5e.js.map",
     "static/js/2.28fcfa27.chunk.js": "/baben/static/js/2.28fcfa27.chunk.js",
     "static/js/2.28fcfa27.chunk.js.map": "/baben/static/js/2.28fcfa27.chunk.js.map",
     "index.html": "/baben/index.html",
-    "precache-manifest.a650955cfede4af341143bdca1cbab79.js": "/baben/precache-manifest.a650955cfede4af341143bdca1cbab79.js",
+    "precache-manifest.5bc193a193555cabae3a31e417c0f59b.js": "/baben/precache-manifest.5bc193a193555cabae3a31e417c0f59b.js",
     "service-worker.js": "/baben/service-worker.js",
     "static/css/main.bb358e74.chunk.css.map": "/baben/static/css/main.bb358e74.chunk.css.map",
     "static/js/2.28fcfa27.chunk.js.LICENSE.txt": "/baben/static/js/2.28fcfa27.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.72c69f5e.js",
     "static/js/2.28fcfa27.chunk.js",
     "static/css/main.bb358e74.chunk.css",
-    "static/js/main.7a76b548.chunk.js"
+    "static/js/main.f883fb33.chunk.js"
   ]
 }
